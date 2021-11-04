@@ -1,2 +1,2 @@
 # dg_tomcat
-Simple tomcat.
+简易版 Tomcat 实现
